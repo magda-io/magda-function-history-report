@@ -1,3 +1,4 @@
+import fetch from "isomorphic-fetch";
 import { Transform } from "stream";
 import { Event } from "./RegistryEventStream";
 import signJwtToken from "./signJwtToken";
