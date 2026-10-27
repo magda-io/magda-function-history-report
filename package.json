@@ -1,6 +1,6 @@
 {
   "name": "magda-function-history-report",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "An Openfass Serverless Function template for Magda",
   "repository": "https://github.com/magda-io/magda-function-history-report.git",
   "author": "Jacky Jiang <t83714@gmail.com>",
