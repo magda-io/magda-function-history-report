@@ -57,10 +57,10 @@
     recursive-readdir "^2.2.2"
     yaml "^1.10.2"
 
-"@magda/docker-utils@^1.1.0-alpha.4":
-  version "1.1.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@magda/docker-utils/-/docker-utils-1.1.0-alpha.4.tgz#cd2427b3ad0f88b236818736d3396534f0cc8388"
-  integrity sha512-/+cmvAdtu9lZ0J1TjAzY9uEvaTdKLewazCLAaHd3hVg3ac45dYbLVz38/wXRTMaY1knoF8t0ySfL3FMGTvJSxA==
+"@magda/docker-utils@^2.3.2-alpha.2":
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/@magda/docker-utils/-/docker-utils-2.3.3.tgz#cfa9f1db8890200a04dd1564e393136f80c2ff8a"
+  integrity sha512-dxvCzrXQv4qoGCzvBYMBdAMDTESAvdSobvUlgu/Dk7wByubneTpS7EGKtTWNy2MRRFVGSunBlFiRpSl1nw7Zng==
   dependencies:
     fs-extra "^2.1.2"
     is-subdir "^1.0.2"
